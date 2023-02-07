@@ -1,0 +1,12 @@
+body{
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: background 02s;
+}
+label{
+    font-size: 25px;
+    margin-right: 12px;
+}
